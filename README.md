@@ -1,3 +1,9 @@
+# Champions Hub - Front End
+Projeto desenvolvido em React, trabalhando com o mongo de forma a conciliar o [banco de dados](https://live-score-api.com/). Este foi desenvolvido por João Guilherme Almeida e William Augusto Reis da Silva e seu back end encontra-se no [link](https://github.com/joaogcfa/tecweb-backend).
+
+##Vídeo do funcionamento do Projeto:
+https://drive.google.com/file/d/1HV2snQY-JfV1NTakxr-IIeJSvEW_NmQH/view?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
